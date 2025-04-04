@@ -1,0 +1,14 @@
+2025-04-04 07:32:23.927129 - Received CBT.V508.FILE302.PDS from FILE302.XMI 
+2025-04-04 07:32:23.928070 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:32:23.928224 - Found $$DOC.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/$$DOC
+2025-04-04 07:32:23.928409 - Found $COMMON.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/$COMMON
+2025-04-04 07:32:23.928532 - Found $UDP.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/$UDP
+2025-04-04 07:32:23.928649 - Found @FILE302.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/@FILE302
+2025-04-04 07:32:23.928767 - Found LL@PRIM.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/LL@PRIM
+2025-04-04 07:32:23.928882 - Found LLDA.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/LLDA
+2025-04-04 07:32:23.928996 - Found LLDM.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/LLDM
+2025-04-04 07:32:23.929108 - Found LLMO.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/LLMO
+2025-04-04 07:32:23.929221 - Found LLPCM.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/LLPCM
+2025-04-04 07:32:23.929347 - Found LLPR.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/LLPR
+2025-04-04 07:32:23.929456 - Found LLPRS.txt (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/LLPRS
+2025-04-04 07:32:23.929619 - Found LPALNK.jcl (text/plain) in CBT.V508.FILE302.PDS, moved to PDS/LPALNK
